@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3B26FFC91F7CA4FA00155CE9 /* DynamicStackViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B26FFC81F7CA4FA00155CE9 /* DynamicStackViewController.swift */; };
 		3B2D384F1F7A33F50035D473 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2D384E1F7A33F50035D473 /* AppDelegate.swift */; };
 		3B2D38511F7A33F50035D473 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2D38501F7A33F50035D473 /* ViewController.swift */; };
 		3B2D38541F7A33F50035D473 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B2D38521F7A33F50035D473 /* Main.storyboard */; };
@@ -26,6 +27,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3B26FFC81F7CA4FA00155CE9 /* DynamicStackViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicStackViewController.swift; sourceTree = "<group>"; };
 		3B2D384B1F7A33F50035D473 /* Auto Layout Cookbook2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Auto Layout Cookbook2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B2D384E1F7A33F50035D473 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3B2D38501F7A33F50035D473 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 			children = (
 				3B2D384E1F7A33F50035D473 /* AppDelegate.swift */,
 				3B2D38501F7A33F50035D473 /* ViewController.swift */,
+				3B26FFC81F7CA4FA00155CE9 /* DynamicStackViewController.swift */,
 				3B2D38521F7A33F50035D473 /* Main.storyboard */,
 				3B2D38551F7A33F50035D473 /* Assets.xcassets */,
 				3B2D38571F7A33F50035D473 /* LaunchScreen.storyboard */,
@@ -200,6 +203,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B2D38511F7A33F50035D473 /* ViewController.swift in Sources */,
+				3B26FFC91F7CA4FA00155CE9 /* DynamicStackViewController.swift in Sources */,
 				3B2D384F1F7A33F50035D473 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
